@@ -22,12 +22,12 @@ const typeDefs = gql`
 
 const books = [
     {
-      title: 'The Awakening',
-      author: 'Kate Chopin',
+      title: 'Titulo',
+      author: 'autor1',
     },
     {
-      title: 'City of Glass',
-      author: 'Paul Auster',
+      title: 'Ciudad',
+      author: 'autor2',
     },
   ];
 // Resolvers define the technique for fetching the types defined in the
